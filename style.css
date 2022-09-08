@@ -1,0 +1,23 @@
+body {
+    color: black;
+}
+
+header {
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: skyblue;
+}
+
+h3 {
+    color: lightblue;
+}
+
+footer {
+    background-color: lightyellow;
+}
